@@ -1,0 +1,23 @@
+:root {
+    /* Colors */
+    --blue: #2c7dfa;
+    --blue-shade: #3685ff;
+    --dark-navy: #1f314f;
+    --grey: #7d889e;
+    --light-grey: #d5e1ef;
+    --white: #ffffff;
+  
+    /* Fonts */
+    --heading-font-family: Outfit-Bold, sans-serif;
+    --heading-font-size: 22px;
+    --heading-line-height: normal;
+    --heading-font-weight: 700;
+    --heading-font-style: normal;
+    --body-font-family: Outfit-Regular, sans-serif;
+    --body-font-size: 15px;
+    --body-line-height: normal;
+    --body-font-weight: 400;
+    --body-font-style: normal;
+  
+    /* Effects */
+  }
